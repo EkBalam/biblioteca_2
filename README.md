@@ -1,4 +1,6 @@
-# Examen segundo parcial POO
+Programar de acuerdo al diagrama de clases, todas las clases y metodos deben existir, si requiere más clases o métodos puede agregarlos, pero estos son los minimos
+
+![Diagrama de clases](https://github.com/EkBalam/biblioteca_2/blob/master/biblioteca_clases.png)
 
 # Biblioteca
 1. Una biblioteca tiene copias de libros. Estos últimos se caracterizan por su nombre, tipo (novela, teatro, poesía, ensayo), editorial, año y autor.
